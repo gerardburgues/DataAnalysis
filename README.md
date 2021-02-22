@@ -16,3 +16,11 @@ Queries:
 
 - People with population >600.000 ( parameter ) what prices they put for the individual space. 
 
+
+
+- select Age for those who would use the space and what price they would pay
+- Select Population for those who would use the space and what price
+. Select Age for those who follow influencer
+  
+- Age who would use the app
+-Select Age for those who follow app
