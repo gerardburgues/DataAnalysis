@@ -1,143 +1,143 @@
 ,sexo,age,population,exerciseTimes,exerciseWhere,afterPandemic,trainingType,application,fitnessChannel,classes,individualSpace,price,homeorIndividual,whyHome
-0,H,16 - 30,+600.000,1/2,Home,Sí,WeightLifting,No,No,No,Yes,30/40,individual,-
+0,H,16 - 30,+600.000,1/2,Home,Yes,WeightLifting,No,No,No,Yes,30/40,individual,-
 1,M,16 - 30,Between_200/600,3/4,Home,No,WeightLifting/Tone/Cardio,Yes,Yes,No,Yes,20/30,Home,"Depende de la localización, simplemente por el hecho de tener que desplazarme"
-2,H,16 - 30,Between_200/600,3/4,Gym,Sí,Cardio,Yes,No,No,Yes,20/30,Home,Comodidad
-3,H,31 - 45,Between_200/600,3/4,Gym,Sí,WeightLifting/Tone/Cardio,No,No,Yes,Yes,30/40,individual,
+2,H,16 - 30,Between_200/600,3/4,Gym,Yes,Cardio,Yes,No,No,Yes,20/30,Home,Comodidad
+3,H,31 - 45,Between_200/600,3/4,Gym,Yes,WeightLifting/Tone/Cardio,No,No,Yes,Yes,30/40,individual,
 4,M,16 - 30,+600.000,3/4,Home,No,Tone/Cardio,No,Yes,Yes,Yes,20/30,individual,
 5,M,16 - 30,+600.000,1/2,Outside,No,Cardio,No,Yes,Sometimes,Yes,20/30,individual,
-6,M,16 - 30,Between_200/600,3/4,Home,NoAnswer,Cardio,Yes,No,Sometimes,No,NotUse,Home,
-7,M,46 - 70,+600.000,1/2,Home,Sí,Tone/Cardio,No,No,Sometimes,No,NotUse,Home,Más rápido ni pierdo tiempo
-8,M,16 - 30,+600.000,+4,Outside,Sí,WeightLifting/Tone/Cardio,Yes,Yes,Yes,Yes,NotUse,Home,
-9,H,16 - 30,Between_200/600,1/2,Home,Sí,WeightLifting/Cardio,Yes,Yes,Sometimes,Yes,20/30,Home/individual,"A pesar de que prefiero entrenar en el gimnasio, con las restricciones y la situación del COVID nunca va mal tener alternativas para hacer en casa"
+6,M,16 - 30,Between_200/600,3/4,Home,No,Cardio,Yes,No,Sometimes,No,NotUse,Home,
+7,M,46 - 70,+600.000,1/2,Home,Yes,Tone/Cardio,No,No,Sometimes,No,NotUse,Home,Más rápido ni pierdo tiempo
+8,M,16 - 30,+600.000,+4,Outside,Yes,WeightLifting/Tone/Cardio,Yes,Yes,Yes,Yes,NotUse,Home,
+9,H,16 - 30,Between_200/600,1/2,Home,Yes,WeightLifting/Cardio,Yes,Yes,Sometimes,Yes,20/30,Home/individual,"A pesar de que prefiero entrenar en el gimnasio, con las restricciones y la situación del COVID nunca va mal tener alternativas para hacer en casa"
 10,M,16 - 30,+600.000,3/4,Home/Outside,No,Tone/Cardio,Yes,Yes,No,No,NotUse,Home,"Porque ya estoy registrada en un club con instalaciones para nadar, jugar a tenis, etc... y para hacer ejercicios con casa tengo suficiente "
 11,M,16 - 30,+600.000,1/2,Outside,No,Cardio,No,Yes,Sometimes,Yes,20/30,individual,
-12,M,16 - 30,+600.000,1/2,Gym,Sí,Cardio,No,Yes,Yes,No,NotUse,Home,"Porque si es un entrenamiento físico de gimnasio, con la pereza que me da, lo haría antes en casa con el equipamiento que tengo que irme hasta un sitio para hacerlo. "
-13,M,16 - 30,Between_200/600,3/4,Home/Outside/Gym,Sí,Tone/Cardio,No,Yes,Yes,Yes,30/40,individual,
-14,M,46 - 70,-50.000,3/4,Home,NoAnswer,Tone,Yes,Yes,No,Yes,30/40,individual,
-15,M,46 - 70,+600.000,+4,Outside/Gym,Sí,WeightLifting/Tone/Cardio,No,No,Sometimes,No,NotUse,Home,Porque de no pagar gimnasio ya me quedo en casa no encuentro la ventaja de un espacio como el q propones
+12,M,16 - 30,+600.000,1/2,Gym,Yes,Cardio,No,Yes,Yes,No,NotUse,Home,"Porque si es un entrenamiento físico de gimnasio, con la pereza que me da, lo haría antes en casa con el equipamiento que tengo que irme hasta un sitio para hacerlo. "
+13,M,16 - 30,Between_200/600,3/4,Home/Outside/Gym,Yes,Tone/Cardio,No,Yes,Yes,Yes,30/40,individual,
+14,M,46 - 70,-50.000,3/4,Home,No,Tone,Yes,Yes,No,Yes,30/40,individual,
+15,M,46 - 70,+600.000,+4,Outside/Gym,Yes,WeightLifting/Tone/Cardio,No,No,Sometimes,No,NotUse,Home,Porque de no pagar gimnasio ya me quedo en casa no encuentro la ventaja de un espacio como el q propones
 16,M,46 - 70,-50.000,1/2,Home,No,Cardio,No,No,No,No,NotUse,Home,No m'agrada el gimnàs 
 17,H,46 - 70,-50.000,None,Home,No,Cardio,No,No,No,No,NotUse,Home,Más tranquilo 
-18,H,16 - 30,Between_200/600,+4,Home/Gym,Sí,WeightLifting,No,Yes,No,Yes,20/30,individual,
-19,H,16 - 30,Between_50/200,+4,Home/Outside,NoAnswer,WeightLifting/Tone/Cardio,Yes,No,No,Yes,20/30,individual,
-20,H,16 - 30,-50.000,None,Home/Outside/Gym,Sí,WeightLifting/Cardio,No,No,No,Yes,30/40,individual,
+18,H,16 - 30,Between_200/600,+4,Home/Gym,Yes,WeightLifting,No,Yes,No,Yes,20/30,individual,
+19,H,16 - 30,Between_50/200,+4,Home/Outside,No,WeightLifting/Tone/Cardio,Yes,No,No,Yes,20/30,individual,
+20,H,16 - 30,-50.000,None,Home/Outside/Gym,Yes,WeightLifting/Cardio,No,No,No,Yes,30/40,individual,
 21,M,46 - 70,-50.000,1/2,Outside,No,Cardio,No,No,No,Yes,20/30,individual,
-22,H,16 - 30,Between_200/600,1/2,Outside,Sí,Cardio,No,No,No,Yes,30/40,individual,
-23,M,16 - 30,-50.000,None,Gym,Sí,Tone,No,Yes,Yes,Yes,30/40,individual,
-24,H,46 - 70,+600.000,3/4,Outside/Gym,Sí,Cardio,No,Yes,Yes,No,NotUse,Home,
-25,H,16 - 30,-50.000,3/4,Outside,Sí,WeightLifting/Cardio,No,No,Yes,Yes,30/40,individual,
-26,H,46 - 70,+600.000,3/4,Home/Outside,Sí,Tone/Cardio,Yes,Yes,Yes,Yes,+40,Home,"Me gusta la libertad de poderlo hacer comodamente, cuando me va bien, sin tenerme que desplazar."
-27,M,46 - 70,-50.000,1/2,Outside,NoAnswer,Tone,No,No,No,No,NotUse,Home,Para ir a mi ritmo
-28,M,46 - 70,Between_50/200,1/2,Home/Outside,NoAnswer,Tone,Yes,Yes,No,Yes,20/30,individual,
-29,M,46 - 70,-50.000,1/2,Outside,Sí,Cardio,Yes,No,No,Yes,20/30,individual,
-30,H,16 - 30,Between_200/600,+4,Outside,Sí,WeightLifting,No,Yes,Yes,Yes,20/30,individual,
-31,M,46 - 70,Between_50/200,+4,Home/Outside/Gym,Sí,WeightLifting/Tone/Cardio,Yes,No,Yes,Yes,20/30,individual,
-32,H,16 - 30,Between_200/600,3/4,Home/Outside/Gym,Sí,WeightLifting,No,Yes,No,Yes,20/30,Home,Comodidad y menos posibilidad de contagio
-33,H,46 - 70,+600.000,3/4,Home/Outside,Sí,Tone/Cardio,Yes,Yes,Yes,Yes,+40,Home,"Me gusta la libertad de poderlo hacer comodamente, cuando me va bien, sin tenerme que desplazar."
-34,H,16 - 30,-50.000,3/4,Home,Sí,WeightLifting,No,Yes,Sometimes,Yes,+40,individual,
+22,H,16 - 30,Between_200/600,1/2,Outside,Yes,Cardio,No,No,No,Yes,30/40,individual,
+23,M,16 - 30,-50.000,None,Gym,Yes,Tone,No,Yes,Yes,Yes,30/40,individual,
+24,H,46 - 70,+600.000,3/4,Outside/Gym,Yes,Cardio,No,Yes,Yes,No,NotUse,Home,
+25,H,16 - 30,-50.000,3/4,Outside,Yes,WeightLifting/Cardio,No,No,Yes,Yes,30/40,individual,
+26,H,46 - 70,+600.000,3/4,Home/Outside,Yes,Tone/Cardio,Yes,Yes,Yes,Yes,+40,Home,"Me gusta la libertad de poderlo hacer comodamente, cuando me va bien, sin tenerme que desplazar."
+27,M,46 - 70,-50.000,1/2,Outside,No,Tone,No,No,No,No,NotUse,Home,Para ir a mi ritmo
+28,M,46 - 70,Between_50/200,1/2,Home/Outside,No,Tone,Yes,Yes,No,Yes,20/30,individual,
+29,M,46 - 70,-50.000,1/2,Outside,Yes,Cardio,Yes,No,No,Yes,20/30,individual,
+30,H,16 - 30,Between_200/600,+4,Outside,Yes,WeightLifting,No,Yes,Yes,Yes,20/30,individual,
+31,M,46 - 70,Between_50/200,+4,Home/Outside/Gym,Yes,WeightLifting/Tone/Cardio,Yes,No,Yes,Yes,20/30,individual,
+32,H,16 - 30,Between_200/600,3/4,Home/Outside/Gym,Yes,WeightLifting,No,Yes,No,Yes,20/30,Home,Comodidad y menos posibilidad de contagio
+33,H,46 - 70,+600.000,3/4,Home/Outside,Yes,Tone/Cardio,Yes,Yes,Yes,Yes,+40,Home,"Me gusta la libertad de poderlo hacer comodamente, cuando me va bien, sin tenerme que desplazar."
+34,H,16 - 30,-50.000,3/4,Home,Yes,WeightLifting,No,Yes,Sometimes,Yes,+40,individual,
 35,M,16 - 30,Between_200/600,1/2,Home/Outside,No,Tone/Cardio,Yes,Yes,No,Yes,20/30,individual,
-36,M,46 - 70,-50.000,1/2,Home,Sí,Cardio,No,No,No,No,NotUse,Home,Por que no tendría tiempo
+36,M,46 - 70,-50.000,1/2,Home,Yes,Cardio,No,No,No,No,NotUse,Home,Por que no tendría tiempo
 37,H,16 - 30,-50.000,3/4,Home,No,WeightLifting/Tone,No,Yes,No,Yes,20/30/NotUse,Home,Me ahorro el viaje de ida y vuelta al gimnasio. Aparte me gusta estar en casa.
-38,H,16 - 30,Between_200/600,1/2,Outside/Gym,Sí,Cardio,Yes,No,No,Yes,20/30,individual,
-39,H,16 - 30,Between_50/200,1/2,Home/Outside/Gym,Sí,WeightLifting/Cardio,No,Yes,No,Yes,20/30,individual,
-40,H,16 - 30,Between_200/600,1/2,Gym,Sí,WeightLifting/Cardio,No,Yes,No,Yes,30/40,individual,
-41,M,46 - 70,-50.000,+4,Outside,NoAnswer,Cardio,No,No,No,Yes,20/30,individual,Te obligas a salir de casa y ha encontrar profesionales que te dirijan en tu propósito
+38,H,16 - 30,Between_200/600,1/2,Outside/Gym,Yes,Cardio,Yes,No,No,Yes,20/30,individual,
+39,H,16 - 30,Between_50/200,1/2,Home/Outside/Gym,Yes,WeightLifting/Cardio,No,Yes,No,Yes,20/30,individual,
+40,H,16 - 30,Between_200/600,1/2,Gym,Yes,WeightLifting/Cardio,No,Yes,No,Yes,30/40,individual,
+41,M,46 - 70,-50.000,+4,Outside,No,Cardio,No,No,No,Yes,20/30,individual,Te obligas a salir de casa y ha encontrar profesionales que te dirijan en tu propósito
 42,H,46 - 70,-50.000,1/2,Outside,No,Cardio,No,No,No,Yes,20/30,individual,
-43,M,16 - 30,Between_200/600,1/2,Home/Outside,NoAnswer,Tone/Cardio,No,Yes,No,Yes,20/30,individual,
+43,M,16 - 30,Between_200/600,1/2,Home/Outside,No,Tone/Cardio,No,Yes,No,Yes,20/30,individual,
 44,H,46 - 70,-50.000,1/2,Outside,No,Tone,No,No,No,Yes,20/30,individual,
-45,H,16 - 30,-50.000,+4,Home/Outside/Gym,Sí,Cardio,Yes,Yes,No,Yes,20/40,individual,
+45,H,16 - 30,-50.000,+4,Home/Outside/Gym,Yes,Cardio,Yes,Yes,No,Yes,20/40,individual,
 46,H,16 - 30,+600.000,3/4,Outside,No,Tone/Cardio,No,Yes,No,No,NotUse,individual,
-47,M,16 - 30,Between_200/600,1/2,Outside/Gym,Sí,WeightLifting/Cardio,No,No,Sometimes,No,NotUse,Home,
-48,M,46 - 70,-50.000,None,Outside,Sí,Tone,No,No,No,No,20/30,individual,
-49,H,46 - 70,-50.000,3/4,Home/Outside,Sí,Tone/Cardio,Yes,Yes,No,No,+40,individual,
-50,M,16 - 30,Between_200/600,+4,Gym,Sí,WeightLifting,No,Yes,Yes,Yes,30/40,individual,
-51,H,16 - 30,Between_200/600,1/2,Gym,Sí,Cardio,No,No,Sometimes,Yes,20/30,individual,
-52,M,16 - 30,-50.000,3/4,Outside/Gym,Sí,Cardio,No,No,Yes,Yes,20/30,individual,
-53,H,46 - 70,+600.000,1/2,Gym,Sí,Cardio,No,No,No,Yes,30/40,Home,Mad comodo no desplazarse
-54,M,16 - 30,Between_200/600,3/4,Home,Sí,Tone/Cardio,Yes,Yes,Sometimes,Yes,20/30,individual,
-55,M,46 - 70,Between_200/600,1/2,Gym,Sí,Cardio,No,No,Sometimes,Yes,20/30,individual,
-56,M,46 - 70,Between_200/600,None,Outside,NoAnswer,Cardio,No,No,Sometimes,Yes,20/30,Home/individual,
-57,H,16 - 30,Between_200/600,3/4,Home/Gym,Sí,WeightLifting/Cardio,No,No,No,No,30/40,individual,
-58,M,16 - 30,Between_200/600,3/4,Home/Gym,Sí,WeightLifting/Tone,No,Yes,Yes,Yes,20/30,individual,
-59,M,16 - 30,-50.000,3/4,Outside/Gym,Sí,Cardio,No,No,Yes,Yes,20/30,individual,
-60,H,16 - 30,Between_200/600,1/2,Home,Sí,Tone,Yes,Yes,Yes,Yes,20/40,individual,
-61,H,46 - 70,-50.000,3/4,Outside,Sí,Cardio,No,No,No,No,NotUse,individual,
-62,H,16 - 30,-50.000,3/4,Outside,Sí,WeightLifting/Cardio,No,No,Yes,Yes,30/40,individual,
-63,M,46 - 70,Between_50/200,3/4,Gym,Sí,Tone/Cardio,No,No,No,Yes,20/30,individual,
-64,M,46 - 70,+600.000,+4,Home/Outside/Gym,Sí,Tone/Cardio,Yes,Yes,Yes,Yes,NotUse,Home,Porque ya dispongo de ese espacio en mi casa
-65,M,46 - 70,+600.000,+4,Home/Outside/Gym,Sí,Tone/Cardio,Yes,Yes,Yes,Yes,NotUse,Home,Porque ya dispongo de ese espacio en mi casa
-66,M,46 - 70,Between_200/600,3/4,Home/Gym,Sí,Tone,Yes,Yes,Yes,No,NotUse,Home,"No puc deixar-ho en blanc, però no necessito un espai personalitzat... No ho he entès del tot ... "
-67,M,16 - 30,Between_200/600,1/2,Home,NoAnswer,Cardio,Yes,Yes,No,Yes,20/30,individual,
+47,M,16 - 30,Between_200/600,1/2,Outside/Gym,Yes,WeightLifting/Cardio,No,No,Sometimes,No,NotUse,Home,
+48,M,46 - 70,-50.000,None,Outside,Yes,Tone,No,No,No,No,20/30,individual,
+49,H,46 - 70,-50.000,3/4,Home/Outside,Yes,Tone/Cardio,Yes,Yes,No,No,+40,individual,
+50,M,16 - 30,Between_200/600,+4,Gym,Yes,WeightLifting,No,Yes,Yes,Yes,30/40,individual,
+51,H,16 - 30,Between_200/600,1/2,Gym,Yes,Cardio,No,No,Sometimes,Yes,20/30,individual,
+52,M,16 - 30,-50.000,3/4,Outside/Gym,Yes,Cardio,No,No,Yes,Yes,20/30,individual,
+53,H,46 - 70,+600.000,1/2,Gym,Yes,Cardio,No,No,No,Yes,30/40,Home,Mad comodo no desplazarse
+54,M,16 - 30,Between_200/600,3/4,Home,Yes,Tone/Cardio,Yes,Yes,Sometimes,Yes,20/30,individual,
+55,M,46 - 70,Between_200/600,1/2,Gym,Yes,Cardio,No,No,Sometimes,Yes,20/30,individual,
+56,M,46 - 70,Between_200/600,None,Outside,No,Cardio,No,No,Sometimes,Yes,20/30,Home/individual,
+57,H,16 - 30,Between_200/600,3/4,Home/Gym,Yes,WeightLifting/Cardio,No,No,No,No,30/40,individual,
+58,M,16 - 30,Between_200/600,3/4,Home/Gym,Yes,WeightLifting/Tone,No,Yes,Yes,Yes,20/30,individual,
+59,M,16 - 30,-50.000,3/4,Outside/Gym,Yes,Cardio,No,No,Yes,Yes,20/30,individual,
+60,H,16 - 30,Between_200/600,1/2,Home,Yes,Tone,Yes,Yes,Yes,Yes,20/40,individual,
+61,H,46 - 70,-50.000,3/4,Outside,Yes,Cardio,No,No,No,No,NotUse,individual,
+62,H,16 - 30,-50.000,3/4,Outside,Yes,WeightLifting/Cardio,No,No,Yes,Yes,30/40,individual,
+63,M,46 - 70,Between_50/200,3/4,Gym,Yes,Tone/Cardio,No,No,No,Yes,20/30,individual,
+64,M,46 - 70,+600.000,+4,Home/Outside/Gym,Yes,Tone/Cardio,Yes,Yes,Yes,Yes,NotUse,Home,Porque ya dispongo de ese espacio en mi casa
+65,M,46 - 70,+600.000,+4,Home/Outside/Gym,Yes,Tone/Cardio,Yes,Yes,Yes,Yes,NotUse,Home,Porque ya dispongo de ese espacio en mi casa
+66,M,46 - 70,Between_200/600,3/4,Home/Gym,Yes,Tone,Yes,Yes,Yes,No,NotUse,Home,"No puc deixar-ho en blanc, però no necessito un espai personalitzat... No ho he entès del tot ... "
+67,M,16 - 30,Between_200/600,1/2,Home,No,Cardio,Yes,Yes,No,Yes,20/30,individual,
 68,M,16 - 30,Between_200/600,3/4,Home,No,Cardio,No,No,No,Yes,30/40,Home,Más comodidad y no pierdes tiempo en el desplazamiento
-69,M,46 - 70,-50.000,1/2,Home/Outside,NoAnswer,Cardio,Yes,No,Yes,Yes,20/30,individual,
+69,M,46 - 70,-50.000,1/2,Home/Outside,No,Cardio,Yes,No,Yes,Yes,20/30,individual,
 70,H,46 - 70,-50.000,1/2,Outside,No,Cardio,Yes,No,No,Yes,20/30,Home,Per no tenir de desplaçar
-71,M,16 - 30,-50.000,+4,Home/Outside,Sí,WeightLifting/Tone/Cardio,Yes,Yes,Yes,Yes,30/40,individual,
-72,M,46 - 70,Between_200/600,None,Gym,Sí,Tone,No,No,Yes,Yes,20/30,individual,
+71,M,16 - 30,-50.000,+4,Home/Outside,Yes,WeightLifting/Tone/Cardio,Yes,Yes,Yes,Yes,30/40,individual,
+72,M,46 - 70,Between_200/600,None,Gym,Yes,Tone,No,No,Yes,Yes,20/30,individual,
 73,H,16 - 30,-50.000,+4,Home/Outside,No,WeightLifting,No,Yes,No,Yes,20/30,individual,
-74,M,16 - 30,-50.000,3/4,Home,Sí,Cardio,Yes,Yes,Yes,Yes,20/30,individual,
+74,M,16 - 30,-50.000,3/4,Home,Yes,Cardio,Yes,Yes,Yes,Yes,20/30,individual,
 75,H,46 - 70,Between_200/600,3/4,Outside,No,Cardio,No,No,Sometimes,No,NotUse,Home,
 76,M,46 - 70,-50.000,1/2,Outside,No,Cardio,No,No,No,No,NotUse,Home,Por comodidad de horarios
-77,M,16 - 30,Between_50/200,1/2,Home/Outside,NoAnswer,Tone,Yes,Yes,No,Yes,20/30,individual,
+77,M,16 - 30,Between_50/200,1/2,Home/Outside,No,Tone,Yes,Yes,No,Yes,20/30,individual,
 78,M,46 - 70,+600.000,3/4,Home/Outside,No,Cardio,Yes,No,Sometimes,Yes,20/30,Home,"Porque es mas cómodo,y d menos pereza desde el.ambiente propio"
 79,M,16 - 30,-50.000,1/2,Outside,No,Cardio,No,No,No,Yes,20/30,individual,
-80,M,16 - 30,-50.000,1/2,Gym,Sí,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,30/40,individual,
-81,M,16 - 30,Between_200/600,1/2,Outside,NoAnswer,Cardio,Yes,Yes,No,Yes,20/30,individual,
-82,H,16 - 30,-50.000,+4,Home/Outside/Gym,Sí,WeightLifting/Cardio,No,Yes,No,Yes,20/30,individual,
+80,M,16 - 30,-50.000,1/2,Gym,Yes,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,30/40,individual,
+81,M,16 - 30,Between_200/600,1/2,Outside,No,Cardio,Yes,Yes,No,Yes,20/30,individual,
+82,H,16 - 30,-50.000,+4,Home/Outside/Gym,Yes,WeightLifting/Cardio,No,Yes,No,Yes,20/30,individual,
 83,M,16 - 30,-50.000,1/2,Home,No,Cardio,No,No,No,Yes,20/30,Home,Mas seguro y tranquilo
-84,M,16 - 30,+600.000,1/2,Home,Sí,WeightLifting/Cardio,Yes,Yes,No,Yes,20/30,individual,
-85,M,16 - 30,+600.000,1/2,Home,Sí,WeightLifting/Cardio,Yes,Yes,No,Yes,20/30,individual,
+84,M,16 - 30,+600.000,1/2,Home,Yes,WeightLifting/Cardio,Yes,Yes,No,Yes,20/30,individual,
+85,M,16 - 30,+600.000,1/2,Home,Yes,WeightLifting/Cardio,Yes,Yes,No,Yes,20/30,individual,
 86,H,16 - 30,Between_200/600,1/2,Home/Outside,No,WeightLifting,No,No,No,No,NotUse,Home,No tengo que perder tiempo yendo y volviendo
-87,M,16 - 30,+600.000,1/2,Home,Sí,WeightLifting/Cardio,Yes,Yes,No,Yes,20/30,individual,
-88,M,46 - 70,Between_200/600,+4,Home/Outside/Gym,Sí,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,+40,individual,
-89,H,16 - 30,Between_200/600,+4,Outside/Gym,Sí,WeightLifting/Tone,Yes,Yes,No,Yes,20/30,individual,
+87,M,16 - 30,+600.000,1/2,Home,Yes,WeightLifting/Cardio,Yes,Yes,No,Yes,20/30,individual,
+88,M,46 - 70,Between_200/600,+4,Home/Outside/Gym,Yes,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,+40,individual,
+89,H,16 - 30,Between_200/600,+4,Outside/Gym,Yes,WeightLifting/Tone,Yes,Yes,No,Yes,20/30,individual,
 90,M,46 - 70,-50.000,1/2,Home,No,Cardio,No,No,No,No,NotUse,Home,A mi ritmo y cuando puedo
-91,M,16 - 30,-50.000,+4,Home/Outside,Sí,WeightLifting/Tone/Cardio,Yes,Yes,Yes,Yes,30/40,individual,
+91,M,16 - 30,-50.000,+4,Home/Outside,Yes,WeightLifting/Tone/Cardio,Yes,Yes,Yes,Yes,30/40,individual,
 92,M,46 - 70,Between_50/200,1/2,Home,No,WeightLifting/Tone/Cardio,No,Yes,No,No,NotUse,Home,Practicidad
-93,M,46 - 70,-50.000,3/4,Outside,NoAnswer,Tone,No,No,Sometimes,No,NotUse,individual,
-94,H,16 - 30,Between_200/600,3/4,Outside,Sí,Cardio,No,No,No,Yes,20/30,individual,
+93,M,46 - 70,-50.000,3/4,Outside,No,Tone,No,No,Sometimes,No,NotUse,individual,
+94,H,16 - 30,Between_200/600,3/4,Outside,Yes,Cardio,No,No,No,Yes,20/30,individual,
 95,M,16 - 30,-50.000,1/2,Home/Outside,No,Cardio,Yes,No,Sometimes,Yes,20/30,individual,
-96,M,46 - 70,Between_200/600,1/2,Outside,Sí,Cardio,No,No,Sometimes,No,NotUse,individual,
-97,M,16 - 30,-50.000,None,Gym,Sí,Tone,No,Yes,Yes,Yes,30/40,individual,
-98,H,16 - 30,+600.000,1/2,Home,Sí,WeightLifting,No,No,No,Yes,30/40,individual,-
-99,H,46 - 70,Between_200/600,+4,Home/Outside/Gym,Sí,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,+40,individual,
-100,M,46 - 70,+600.000,3/4,Home/Outside,NoAnswer,Tone/Cardio,No,Yes,No,Yes,20/30,individual,
-101,M,16 - 30,+600.000,3/4,Outside,Sí,Cardio,Yes,No,No,Yes,30/40,individual,
+96,M,46 - 70,Between_200/600,1/2,Outside,Yes,Cardio,No,No,Sometimes,No,NotUse,individual,
+97,M,16 - 30,-50.000,None,Gym,Yes,Tone,No,Yes,Yes,Yes,30/40,individual,
+98,H,16 - 30,+600.000,1/2,Home,Yes,WeightLifting,No,No,No,Yes,30/40,individual,-
+99,H,46 - 70,Between_200/600,+4,Home/Outside/Gym,Yes,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,+40,individual,
+100,M,46 - 70,+600.000,3/4,Home/Outside,No,Tone/Cardio,No,Yes,No,Yes,20/30,individual,
+101,M,16 - 30,+600.000,3/4,Outside,Yes,Cardio,Yes,No,No,Yes,30/40,individual,
 102,H,16 - 30,+600.000,1/2,Home/Outside/Gym,No,WeightLifting/Tone,Yes,Yes,No,Yes,20/30,Home/individual,
-103,H,16 - 30,Between_200/600,1/2,Outside,Sí,Cardio,No,No,No,Yes,30/40,individual,
-104,M,16 - 30,-50.000,1/2,Gym,Sí,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,30/40,individual,
-105,M,16 - 30,-50.000,3/4,Home,Sí,Cardio,Yes,Yes,Yes,Yes,20/30,individual,
-106,M,46 - 70,-50.000,3/4,Outside,Sí,Tone,No,No,Sometimes,Yes,20/30,individual,
+103,H,16 - 30,Between_200/600,1/2,Outside,Yes,Cardio,No,No,No,Yes,30/40,individual,
+104,M,16 - 30,-50.000,1/2,Gym,Yes,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,30/40,individual,
+105,M,16 - 30,-50.000,3/4,Home,Yes,Cardio,Yes,Yes,Yes,Yes,20/30,individual,
+106,M,46 - 70,-50.000,3/4,Outside,Yes,Tone,No,No,Sometimes,Yes,20/30,individual,
 107,H,16 - 30,Between_50/200,1/2,Home,No,Cardio,No,No,Sometimes,Yes,30/40,individual,
-108,M,16 - 30,+600.000,None,Gym,Sí,Tone/Cardio,No,No,No,Yes,+40,Home,Comodidad
-109,M,46 - 70,-50.000,+4,Outside,Sí,Tone,Yes,Yes,Yes,No,NotUse,Home,Tengo todo lo necesario para la actividad que realizo
-110,M,46 - 70,-50.000,3/4,Home/Outside/Gym,Sí,Tone,No,No,No,Sí;No,20/30,individual,
+108,M,16 - 30,+600.000,None,Gym,Yes,Tone/Cardio,No,No,No,Yes,+40,Home,Comodidad
+109,M,46 - 70,-50.000,+4,Outside,Yes,Tone,Yes,Yes,Yes,No,NotUse,Home,Tengo todo lo necesario para la actividad que realizo
+110,M,46 - 70,-50.000,3/4,Home/Outside/Gym,Yes,Tone,No,No,No,Sí;No,20/30,individual,
 111,M,46 - 70,-50.000,1/2,Outside,No,Cardio,No,No,Sometimes,No,NotUse,individual,
-112,M,46 - 70,-50.000,1/2,Gym,Sí,Tone,No,No,Yes,Yes,30/40,individual,
+112,M,46 - 70,-50.000,1/2,Gym,Yes,Tone,No,No,Yes,Yes,30/40,individual,
 113,H,46 - 70,-50.000,1/2,Outside,No,Cardio,No,No,No,Yes,20/30,individual,
-114,M,46 - 70,Between_200/600,3/4,Outside,Sí,Cardio,Yes,Yes,Yes,Yes,30/40,individual,
+114,M,46 - 70,Between_200/600,3/4,Outside,Yes,Cardio,Yes,Yes,Yes,Yes,30/40,individual,
 115,M,46 - 70,Between_50/200,1/2,Outside,No,Tone/Cardio,No,No,No,No,NotUse,individual,
 116,M,46 - 70,-50.000,1/2,Home/Outside,No,Cardio,Yes,No,Sometimes,No,NotUse,individual,
 117,M,46 - 70,Between_200/600,1/2,Outside,No,Cardio,Yes,No,No,Yes,20/30,individual,
-118,M,46 - 70,-50.000,None,Outside,NoAnswer,Cardio,No,No,Yes,Yes,20/30,individual,
+118,M,46 - 70,-50.000,None,Outside,No,Cardio,No,No,Yes,Yes,20/30,individual,
 119,M,16 - 30,-50.000,1/2,Home,No,Tone,Yes,Yes,No,Yes,20/30,Home,Me da verguenza que me vean haciendo ejercicio
-120,M,16 - 30,+600.000,3/4,Outside,Sí,Tone/Cardio,No,No,Sometimes,No,20/30,Home,Más cómodo. Me ahorro el transporte 
-121,H,16 - 30,Between_200/600,+4,Outside/Gym,Sí,WeightLifting/Cardio,No,Yes,No,No,NotUse,individual,
+120,M,16 - 30,+600.000,3/4,Outside,Yes,Tone/Cardio,No,No,Sometimes,No,20/30,Home,Más cómodo. Me ahorro el transporte 
+121,H,16 - 30,Between_200/600,+4,Outside/Gym,Yes,WeightLifting/Cardio,No,Yes,No,No,NotUse,individual,
 122,H,31 - 45,-50.000,1/2,Home/Outside,No,Tone/Cardio,Yes,No,No,Yes,30/40,individual,
-123,H,16 - 30,Between_50/200,1/2,Home,Sí,WeightLifting/Cardio,No,No,No,Yes,20/30,individual,
-124,M,31 - 45,-50.000,+4,Home/Gym,Sí,WeightLifting,No,Yes,No,Yes,+40,Home/individual,"Si pudiese disponer en casa de los materiales necesarios, entrenaría más de un día ahí por ahorro de tiempo!"
+123,H,16 - 30,Between_50/200,1/2,Home,Yes,WeightLifting/Cardio,No,No,No,Yes,20/30,individual,
+124,M,31 - 45,-50.000,+4,Home/Gym,Yes,WeightLifting,No,Yes,No,Yes,+40,Home/individual,"Si pudiese disponer en casa de los materiales necesarios, entrenaría más de un día ahí por ahorro de tiempo!"
 125,M,16 - 30,-50.000,1/2,Home,No,Cardio,No,No,No,Yes,20/30,Home,Mas seguro y tranquilo
-126,M,31 - 45,+600.000,1/2,Home/Outside/Gym,Sí,Tone/Cardio,Yes,Yes,Yes,Yes,+40,individual,"Depende de lo cerca que esté. Si pierdo mucho tiempo en desplazamiento, prefiero en casa con aplicaciones."
+126,M,31 - 45,+600.000,1/2,Home/Outside/Gym,Yes,Tone/Cardio,Yes,Yes,Yes,Yes,+40,individual,"Depende de lo cerca que esté. Si pierdo mucho tiempo en desplazamiento, prefiero en casa con aplicaciones."
 127,M,16 - 30,Between_200/600,None,Outside,No,Cardio,No,No,No,Yes,NotUse,individual,
 128,H,31 - 45,+600.000,1/2,Outside,No,Cardio,No,No,No,No,NotUse,Home,Teniendo espacio no pierdo tanto el tiempo
-129,H,46 - 70,Between_200/600,+4,Home/Outside/Gym,Sí,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,+40,individual,
-130,H,31 - 45,-50.000,+4,Home/Outside/Gym,Sí,Cardio,No,No,Yes,Yes,20/30,individual,
-131,H,16 - 30,Between_200/600,1/2,Outside,Sí,Cardio,No,No,No,Yes,20/30,Home,
-132,M,16 - 30,+600.000,1/2,Gym,Sí,Cardio,No,Yes,Yes,No,NotUse,Home,"Porque si es un entrenamiento físico de gimnasio, con la pereza que me da, lo haría antes en casa con el equipamiento que tengo que irme hasta un sitio para hacerlo. "
-133,H,16 - 30,+600.000,3/4,Home,Sí,Tone,No,Yes,No,Yes,20/30,individual,
-134,M,31 - 45,-50.000,1/2,Home/Outside,Sí,Tone,Yes,No,No,Yes,20/30,individual,
-135,H,16 - 30,-50.000,3/4,Outside/Gym,Sí,WeightLifting/Cardio,Yes,Yes,No,Yes,20/30,Home,"Más comodo en terminos de mobilidad y adaptable a los horarios
+129,H,46 - 70,Between_200/600,+4,Home/Outside/Gym,Yes,WeightLifting/Tone/Cardio,No,Yes,Yes,Yes,+40,individual,
+130,H,31 - 45,-50.000,+4,Home/Outside/Gym,Yes,Cardio,No,No,Yes,Yes,20/30,individual,
+131,H,16 - 30,Between_200/600,1/2,Outside,Yes,Cardio,No,No,No,Yes,20/30,Home,
+132,M,16 - 30,+600.000,1/2,Gym,Yes,Cardio,No,Yes,Yes,No,NotUse,Home,"Porque si es un entrenamiento físico de gimnasio, con la pereza que me da, lo haría antes en casa con el equipamiento que tengo que irme hasta un sitio para hacerlo. "
+133,H,16 - 30,+600.000,3/4,Home,Yes,Tone,No,Yes,No,Yes,20/30,individual,
+134,M,31 - 45,-50.000,1/2,Home/Outside,Yes,Tone,Yes,No,No,Yes,20/30,individual,
+135,H,16 - 30,-50.000,3/4,Outside/Gym,Yes,WeightLifting/Cardio,Yes,Yes,No,Yes,20/30,Home,"Más comodo en terminos de mobilidad y adaptable a los horarios
 "
-136,H,31 - 45,+600.000,3/4,Home/Outside,NoAnswer,Cardio,Yes,Yes,Sometimes,No,NotUse,Home,Comodidad
-137,H,31 - 45,+600.000,3/4,Home/Outside,NoAnswer,Cardio,Yes,Yes,Sometimes,No,NotUse,Home,Comodidad
+136,H,31 - 45,+600.000,3/4,Home/Outside,No,Cardio,Yes,Yes,Sometimes,No,NotUse,Home,Comodidad
+137,H,31 - 45,+600.000,3/4,Home/Outside,No,Cardio,Yes,Yes,Sometimes,No,NotUse,Home,Comodidad
 138,M,16 - 30,-50.000,1/2,Home/Outside,No,Cardio,Yes,No,Sometimes,Yes,20/30,individual,
-139,H,46 - 70,Between_200/600,3/4,Gym,Sí,WeightLifting/Cardio,No,No,No,Yes,NotUse,individual,
-140,M,31 - 45,Between_50/200,+4,Outside,Sí,Cardio,Yes,Yes,Yes,Yes,20/30,individual,
+139,H,46 - 70,Between_200/600,3/4,Gym,Yes,WeightLifting/Cardio,No,No,No,Yes,NotUse,individual,
+140,M,31 - 45,Between_50/200,+4,Outside,Yes,Cardio,Yes,Yes,Yes,Yes,20/30,individual,

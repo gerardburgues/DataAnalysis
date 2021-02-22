@@ -122,6 +122,10 @@ def create_pandas_table(sql_query, database = conn):
             row["homeorIndividual"] = "Home/individual"
         else: row["homeorIndividual"] = "Home"
 
+        if row["afterPandemic"] == "Sí":
+
+            row["afterPandemic"] = "Yes"
+        else: row["afterPandemic"] = "No"
 
 
     return table
