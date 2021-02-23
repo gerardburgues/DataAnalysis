@@ -24,3 +24,5 @@ Queries:
   
 - Age who would use the app
 -Select Age for those who follow app
+  
+- Training type and if they would use the space

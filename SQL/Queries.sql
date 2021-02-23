@@ -209,3 +209,25 @@ BEGIN
     end
 
 $$;
+
+/**---------------------------------Jordi-------------------------------------------**/
+
+create function training_use( )
+    returns TABLE(v_individualspace text,count bigint,v_trainingtype text)
+    language plpgsql
+as
+$$
+BEGIN
+        RETURN QUERY
+            SELECT
+                "individualSpace",
+                count(*),
+            "trainingType"
+
+
+
+            FROM   "transformedData"
+        group by "individualSpace", "trainingType";
+    end
+
+$$;
