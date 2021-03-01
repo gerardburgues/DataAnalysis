@@ -131,9 +131,9 @@ def create_pandas_table(sql_query, database = conn):
     return table
 
 
-table_info = create_pandas_table("Select * from table1")
+table_info = create_pandas_table("Select * from formtotal")
 
 df = pandas.DataFrame(data=table_info)
 print(df)
-df.to_csv("transformedData.csv")
+df.to_csv("Updated.csv")
 
